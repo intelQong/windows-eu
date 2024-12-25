@@ -1,6 +1,6 @@
 # Steps:
 
-1. Download the (ViveTool-vx.x.x.zip)[https://github.com/thebookisclosed/ViVe/releases] file.
+1. Download the [ViveTool.zip](https://github.com/thebookisclosed/ViVe/releases) file.
 2. Open terminal as admin
 3. Enter `cd c:\folder\path\ViveTool-v0.x.x` (CTRL + l)
 4. `.\ViVeTool /enable /id:44353396`
