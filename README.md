@@ -7,5 +7,5 @@
 5. Restart
 6. Open File Explorer (Windows key + E).
 7. Type the following path on the address bar and press Enter: `C:\Windows\system32`
-8. Search _IntegratedServicesRegionPolicySet.json_ and right click and open properties
-9. Security tab
+8. Search `IntegratedServicesRegionPolicySet.json` and right click and open properties
+9. Security tab > 
