@@ -20,3 +20,5 @@ Use this to grant permissions:
 14.In the **IntegratedServicesRegionPolicySet.json** file for the “Edge is uninstallable.” setting, change the “defaultState” option from disabled to **enabled**.
 15. Find out the region by running `reg query "HKEY_USERS\.DEFAULT\Control Panel\International\Geo" `
 16. Open Microsoft Edge > Settings > System and Performance > Turn off the *Startup boost toggle* switch under the **System** section.
+
+_Once you complete the steps, Microsoft Edge will be completely removed from Windows 11 or 10, depending on the operating system. If the option to remove the browser is still unavailable, restart the computer a few times to ensure the system recognizes the changes._
