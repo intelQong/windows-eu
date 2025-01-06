@@ -8,7 +8,7 @@ Issues](https://img.shields.io/github/issues/google/trax.svg)](https://github.co
 [![Contributions
 welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/trax-ml/community)
+[![Gitter]([https://img.shields.io/gitter/room/nwjs/nw.js.svg](https://img.icons8.com/?size=100&id=iSmEebXt56Ux&format=png&color=000000))](https://gitter.im/trax-ml/community)
 
 
 
