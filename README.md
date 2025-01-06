@@ -1,3 +1,18 @@
+
+![train tracks](https://images.pexels.com/photos/461772/pexels-photo-461772.jpeg?dl&fit=crop&crop=entropy&w=32&h=21)
+[![PyPI
+version](https://badge.fury.io/py/trax.svg)](https://badge.fury.io/py/trax)
+[![GitHub
+Issues](https://img.shields.io/github/issues/google/trax.svg)](https://github.com/google/trax/issues)
+![GitHub Build](https://github.com/google/trax/actions/workflows/build.yaml/badge.svg)
+[![Contributions
+welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/trax-ml/community)
+
+
+
+
 # Steps:
 
 1. Download the [ViveTool.zip](https://github.com/thebookisclosed/ViVe/releases) file.
