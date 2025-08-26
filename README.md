@@ -17,7 +17,7 @@ welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CO
 
 1. Download the [ViveTool.zip](https://github.com/thebookisclosed/ViVe/releases) file.
 2. Open terminal as admin
-3. Enter `cd c:\folder\path\ViveTool-v0.x.x` (CTRL + l) >
+3. Enter `cd "c:\folder\path\ViveTool-v0.x.x"` (CTRL + l) >
 4. `.\ViVeTool /enable /id:44353396`
 5.  Restart PC
 6.  Open File Explorer (Windows key + E).
